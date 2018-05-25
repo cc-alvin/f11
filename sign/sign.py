@@ -6,7 +6,7 @@ import schedule
 
 
 def sign(text):
-    display = Display(visible=1, size=(800, 600))
+    display = Display(visible=0, size=(800, 600))
     display.start()
     browser = webdriver.Chrome()
     browser.get("https://www.51hack.cn/member.php?mod=logging&action=login")
