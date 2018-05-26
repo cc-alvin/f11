@@ -4,7 +4,7 @@
 
 使用方法:
 
-1.安装python3,virtualenv
+1.安装python3,virtualenv,同时需要下载chromedriver支持，添加到path路径中。
 
 2.安装依赖
 
